@@ -16,3 +16,6 @@ pynput
 lap
 pyqt6==6.8.1
 keyboard==0.13.5
+aiohttp>=3.13.3 # not directly required, pinned by Snyk to avoid a vulnerability
+torch>=2.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
