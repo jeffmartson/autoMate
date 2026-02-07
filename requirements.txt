@@ -16,3 +16,4 @@ pynput
 lap
 pyqt6==6.8.1
 keyboard==0.13.5
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
